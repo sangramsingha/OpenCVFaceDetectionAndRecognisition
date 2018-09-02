@@ -64,3 +64,9 @@ OPENCV_EXTRA_MODULES_PATH <PATH_TO_opencv_contrib_Modules_directory>
 * Once done, Navigate to `<cmake_build_dir>` directory  and issue following command  `make -j<nos_of_thread>` (eg `make -j4` will start compiling with 4 threads to speed up build) 
 
 * If you want to install it system wide then just issue following command `make install` 
+
+## Running project 
+
+It requires following files
+* `haarcascade_frontalface_alt.xml` or `lbpcascade_frontalface.xml`
+ 

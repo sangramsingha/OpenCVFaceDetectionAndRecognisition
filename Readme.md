@@ -2,7 +2,7 @@
 
 Thanks to [https://github.com/opencv-java/face-detection](https://github.com/opencv-java/face-detection) github repo 
 
-## Install OpenCV 4.x under Linux mint 19
+## Install OpenCV under Linux mint 19
 * Install following package
 ```
 sudo apt install build-essential cmake cmake-gui git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
